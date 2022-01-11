@@ -1,1 +1,3 @@
-Hola amigos, este es un saludo en el curso de programación.
+Hola amigos, este es un saludo en el curso de programación. R2
+
+Este es ahora mi nuevo saludo.
