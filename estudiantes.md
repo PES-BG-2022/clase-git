@@ -2,3 +2,4 @@
 
 - Rodrigo Chang
 - Joel Juárez
+- Roberto Camposeco
