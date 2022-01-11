@@ -5,3 +5,4 @@
 - Joel Juárez
 - Roberto Camposeco
 - Pablo Gutierrez Lou
+- Jorge Danilo Pacay Guzmán Oneros
