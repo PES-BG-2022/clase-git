@@ -1,4 +1,4 @@
 # Lista de estudiantes
 
 - Rodrigo Chang
-- Rob Camposeco
+- Roberto Camposeco
