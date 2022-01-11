@@ -1,4 +1,8 @@
 # Lista de estudiantes
 
 - Rodrigo Chang
-Jorge Danilo Pacay Guzmán Oneros
+- Martín Cordón
+- Joel Juárez
+- Roberto Camposeco
+- Pablo Gutierrez Lou
+- Jorge Danilo Pacay Guzmán Oneros

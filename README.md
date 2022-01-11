@@ -1,2 +1,3 @@
 # clase-git
  Repositorio de prueba para demostración Git
+ Añadiendo nueva línea a Readme...

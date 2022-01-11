@@ -1,0 +1,9 @@
+- Crear un repositorio OK!
+    - Crear archivos y hacer algunos commits. OK!
+    - Publicar mi repositorio. OK!
+
+- Clonar (fork) mi repositorio 
+    - Crear algún archivo nuevo. 
+    - Modificar un archivo común a todos.
+    - Actualizar el repositorio remoto. 
+    - Solicitar una unión de cambios (pull request). 
