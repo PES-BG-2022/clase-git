@@ -1,4 +1,6 @@
 # Lista de estudiantes
 
 - Rodrigo Chang
-Pablo Gutierrez Lou
+- Joel Juárez
+- Roberto Camposeco
+- Pablo Gutierrez Lou
